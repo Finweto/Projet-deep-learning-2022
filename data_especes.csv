@@ -1,8 +1,8 @@
-nom,bord,phyllotaxie,type_feuille,ligneux
+label,bord,phyllotaxie,type_feuille,ligneux
 convolvulaceae,lisse,alterne,simple,non
 monimiaceae,lisse,oppose,simple,oui
 amborella,lisse,alterne,simple,oui
-castarea,dente,alterne,simple,oui
+castanea,dente,alterne,simple,oui
 desmodium,lisse,alterne,composee,non
 eugenia,lisse,oppose,simple,oui
 laurus,lisse,oppose,simple,oui
