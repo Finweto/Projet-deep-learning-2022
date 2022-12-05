@@ -1,3 +1,5 @@
+Deep Learning groupe 1 :
+
 AGOUSSAL Youssef
 BERNARD Léo
 BORGET Valentin
@@ -5,5 +7,8 @@ JANELA CAMEIJO Alice
 MOUILLE Rose
 OLIVEIRA DA SILVA Nathan
 
+
+CY Tech
 ING3 IA Groupe A
+Deep Learning -- Youcef SKLAB
 06/12/2022
